@@ -103,7 +103,7 @@ console.log(maiorOuIgual);
 var menorOuIgual = 4 <= 5;
 console.log(menorOuIgual); */
 
-var e = true && true;
+/* var e = true && true;
 console.log(e);
 
 var ou = false || false;
@@ -111,4 +111,4 @@ console.log(ou);
 
 var nao = !true;
 console.log(nao);
-
+ */
