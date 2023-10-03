@@ -38,7 +38,7 @@ switch (placar) {
 
 let array = ['valor1', 'valor2', 'valor3', 'valor4', 'valor5'];
 
-let object = {propriedade1: 'valor1', propriedade2: 'valor2', propriedade3: 'valor3'};
+let object = { propriedade1: 'valor1', propriedade2: 'valor2', propriedade3: 'valor3' };
 
 // for
 /* for (let indice = 0; indice < array.length; indice++) {
@@ -77,8 +77,9 @@ while (a < 10) {
  */
 
 //do while
-var b = 0;
+/* var b = 0;
 do {
     b++;
     console.log(b);
-} while(b < 15);
+} while (b < 15);
+ */
