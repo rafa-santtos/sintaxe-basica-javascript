@@ -4,8 +4,8 @@
 
 funcaoTeste(); */
 
-function mensagem(primeiro, segundo) {
+/* function mensagem(primeiro, segundo) {
     console.log(primeiro, segundo)
 }
 
-mensagem ('Teste primeira mensagem,', 'Teste segunda mensagem');
+mensagem ('Teste primeira mensagem,', 'Teste segunda mensagem'); */
