@@ -48,8 +48,8 @@ function escopoLocal() {
     console.log(escopoLocalInterno);
 }
 
-escopoLocal(); */
-
+escopoLocal();
+ */
 
 //Diferença entre atribuição, comparação e comparação idêntica
 
